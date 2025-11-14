@@ -29,9 +29,10 @@ catalogo fijo:
 
 
 # 3-criterios de aceptacion 
-cr1-volumen= dado x5 calculo el subtotal y uso 3500 no 4000
-cr2-descuento= calcular el total y supera 60k se hace un decuento de 5%
-cr3-bloqueo = ya que el pedido esta listo no se puede hagregar items 
+ca1-volumen= dado x5 calculo el subtotal y uso 3500 no 4000
+ca2-descuento= dado calcular el total y supera 60k se hace un decuento de 5%
+ca3-bloqueo = dado que el pedido esta listo no se puede hagregar items 
+ca4-expres = dado calcular el total y sumar un 10% al total final 
 
 
 # 4-limite del diseño
@@ -64,4 +65,8 @@ el-limoncito/
 
 
 ![image](./assets/uml.jpg)
+![image](./assets/descueto60k.jpg.jpeg)
+![image](./assets/expres.jpg.jpeg)
+![image](./assets/mayorx5.jpg.jpeg)
+![image](./assets/confirmarpedido.jpeg)
 
